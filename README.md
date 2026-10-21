@@ -2,7 +2,7 @@
 
 ![pipeline](pipeline.gif)
 
-**By:** Hadia
+**By:** Hadia Asif
 
 I loaded Microsoft's **AdventureWorks2022** data into Databricks, built a small **star schema**, and checked it with SQL.
 
